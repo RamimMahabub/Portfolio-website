@@ -1,0 +1,20 @@
+I hereby declare that artificial intelligence tools were utilized in the development of this project in the following capacities:
+AI tools used: ChatGPT, Gemini.
+1. Learning and Research
+AI tools used: ChatGPT, Gemini.
+
+Purpose: To understand HTML and CSS functionality, explore application use cases, and learn best practices for implementing specific features.
+
+Scope: AI assisted in explaining technical concepts, providing code examples, and suggesting approaches to solve specific development challenges.
+
+2. Design Enhancement
+
+Purpose: To explore and suggest color variations, color palette combinations, and visual design improvements.
+
+Scope: AI provided recommendations for color schemes that enhance user experience and visual appeal, which were then reviewed and selected based on personal design preferences.
+
+3. Technical Skill Presentation
+
+Purpose: To assist in articulating and presenting my technical skills and project accomplishments effectively.
+
+Scope: AI helped structure project text descriptions, highlight key technical achievements, and present my role and contributions in a professional manner.
