@@ -1,4 +1,4 @@
-// Page Information Display - Required for Assignment
+// Page Information Display 
 document.addEventListener('DOMContentLoaded', function () {
     // Display page location
     const pageLoc = document.getElementById('page-location');
