@@ -88,7 +88,7 @@ body {
 
 .cyber-grid {
     display: none;
-    /* Removing complex animations */
+    
 }
 
 .hero-content {
@@ -111,7 +111,7 @@ body {
 
 .image-glow {
     display: none;
-    /* Removing complex effects */
+    
 }
 
 .hero-title {
@@ -602,7 +602,7 @@ body {
     color: #00f0ff;
 }
 
-/* RESPONSIVE DESIGN - BASIC */
+/* RESPONSIVE DESIGN*/
 @media (max-width: 768px) {
     .nav-links li {
         margin-left: 1rem;
